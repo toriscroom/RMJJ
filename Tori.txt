@@ -1,6 +1,9 @@
-¿Qué es GitHub y para qué se utiliza?
+â€œeste archivo se estÃ¡ editando la rama
+develop"
+
+ï¿½Quï¿½ es GitHub y para quï¿½ se utiliza?
 Last Updated on: mayo 13th, 2019Gustavo B.4 Min. Tiempo de lectura
-GitHub es un sistema de gestión de proyectos y control de versiones de código,
- así como una plataforma de red social diseñada para desarrolladores. 
-¿Pero para qué se usa GitHub? Bueno, en general, permite trabajar en colaboración con 
+GitHub es un sistema de gestiï¿½n de proyectos y control de versiones de cï¿½digo,
+ asï¿½ como una plataforma de red social diseï¿½ada para desarrolladores. 
+ï¿½Pero para quï¿½ se usa GitHub? Bueno, en general, permite trabajar en colaboraciï¿½n con 
 otras personas de todo el mundo, planificar proyectos y realizar un seguimiento del trabajo.
